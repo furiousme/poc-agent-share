@@ -22,8 +22,8 @@ export async function generateMetadata(
    פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
       images: [{
         url: banner,
-        width: 500,
-        height: 667,
+        width: 530,
+        height: 687,
         alt: 'Agent Share Preview'
       }]
     },
