@@ -17,7 +17,7 @@ export async function generateMetadata(
    פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
     openGraph: {
       title: 'Agent Share',
-      description: `1,2,3 - Sold!
+      description: `1,2,3, 4 - Sold!
   תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
    פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
       images: [{
