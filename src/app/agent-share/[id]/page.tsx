@@ -45,7 +45,7 @@ export async function generateMetadata(
       images: [
         {
           url: banner, // Must be an absolute URL
-          width: 530,
+          width: 400,
           height: 667,
         },
       ],
