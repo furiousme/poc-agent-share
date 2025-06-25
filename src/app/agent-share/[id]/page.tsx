@@ -11,9 +11,8 @@ export async function generateMetadata(
   const { banner } = await searchParams;
  
   return {
-    title: 'Agent Share',
-    description: `1,2,3 - Sold!
-  תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
+    title: '1,2,3 - Sold!',
+    description: `תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
    פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
   //   openGraph: {
   //     title: 'Agent Share',
@@ -29,18 +28,16 @@ export async function generateMetadata(
   //   },
     twitter: {
       card: 'summary_large_image',
-      title: 'Agent Share',
-      description: `1,2,3 - Sold!
-  תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
+      title: '1,2,3 - Sold!',
+      description: `תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
    פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
       images: [banner]
     },
     openGraph: {
-      title: 'Agent Share Title',
-      description: `1,2,3 - Sold!
-תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
+      title: '1,2,3 - Sold!',
+      description: `תנו למקצוענים לעשות את העבודה ותוכלו לסגור עסקה זריזה בה כל הצדדים מרוצים!
 פרטים ונכסים נוספים בעמוד המתווך במדלן >>`,
-      url: 'madlan.co.il',
+      url: 'https://madlan.co.il',
       siteName: 'Madlan',
       images: [
         {
